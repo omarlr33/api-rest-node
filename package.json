@@ -1,0 +1,26 @@
+{
+  "name": "firebase_reactjs_demo",
+  "version": "1.0.0",
+  "description": "practica de reactjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://omarlara.visualstudio.com/_git/nodejs"
+  },
+  "author": "Omar Lara",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "moment": "^2.18.1",
+    "mongoose": "^4.8.7"
+  }
+}
